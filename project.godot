@@ -1,0 +1,14 @@
+; Development / test project for the Tilesmith addon.
+; This file is NOT part of the shipped zip - build.py packages addons/tilesmith only.
+
+config_version=5
+
+[application]
+
+config/name="Tilesmith Dev"
+config/features=PackedStringArray("4.4", "GL Compatibility")
+
+[rendering]
+
+renderer/rendering_method="gl_compatibility"
+renderer/rendering_method.mobile="gl_compatibility"
