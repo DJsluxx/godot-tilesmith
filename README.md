@@ -85,9 +85,10 @@ that did. All three behaviours are asserted by the test suite, not assumed.
 
 ---
 
-## Command line
+## Command line (Pro)
 
-Tilesmith Pro can rebuild a TileSet without opening the editor, so an artist
+This script is not in this repository. Tilesmith Pro can rebuild a TileSet
+without opening the editor, so an artist
 dropping a new sheet into the folder can be a build step rather than a chore:
 
 ```
